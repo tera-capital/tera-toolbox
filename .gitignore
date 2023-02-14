@@ -1,0 +1,5 @@
+__pycache__/*
+.mypy_cache/*
+tera-toolbox/__pycache__/*
+dist
+/build
