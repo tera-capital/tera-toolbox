@@ -4,7 +4,7 @@ from os import path
 
 # --- get version ---
 version = 'unknown'
-with open('tera-toolbox/version.py') as f:
+with open('toolbox/version.py') as f:
     line = f.read().strip()
     version = line.replace('version = ', '').replace('"', '')
 # --- /get version ---
